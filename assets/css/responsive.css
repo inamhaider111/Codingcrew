@@ -1,0 +1,584 @@
+@media(max-width: 1400px){
+	.we-provide h2 {
+    font-size: 60px;
+    line-height: 70px;
+	}
+	.we-provide-img img {
+    width: 100%;
+	}
+	.services-text {
+    width: 75%;
+  }
+  .services-img img {
+    width: 100%;
+	}
+	.portfolio-text > img {
+    width: 100%;
+	}
+	.services-box h4 {
+    font-size: 18px;
+  }
+	nav a {
+    padding: 0 14px;
+    font-size: 16px;
+    line-height: 60px;
+  }
+  .menu-bar nav > ul > li.menu-item-has-children > a:before {
+    right: 0px;
+  }
+  .code-snippets-link a h5 {
+    font-size: 23px;
+    line-height: 32px;
+  }
+  .heading h2 {
+    line-height: 60px;
+    font-size: 50px;
+    width: 52%;
+  }
+  h4 {
+    font-size: 18px;
+    line-height: 28px;
+	}
+	p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .services-provide > a,.blog-data a {
+    font-size: 16px;
+  }
+  .blog-data img {
+    width: 100%;
+	}
+	.heading.two h2 {
+    font-size: 44px;
+    line-height: 52px;
+   }
+	.blog-data h4 a {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .drop-line input, .drop-line textarea {
+    margin-bottom: 30px;
+    font-size: 14px;
+	}
+	.links-footer p {
+    width: 90%;
+	}
+	.we-provide h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 56px;
+	}
+	.conter {
+    font-size: 70px;
+  }
+  .conter-gap {
+    margin-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+	}
+	.team-data h4 {
+    font-size: 24px;
+  }
+}
+@media(max-width: 1200px){
+	.we-provide-img img {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+	}
+  .faq{
+    padding-top: 120px;
+  }
+  .pricing-table-style {
+    height: auto;
+  }
+	.hero-section {
+    padding-top: 100px;
+	}
+	header .logo img {
+    width: 75%;
+	}
+	.mobile-nav {
+    width: 40%;
+  }
+	.bar-menu {
+     display: block; 
+	}
+	.faq h1 {
+    font-size: 60px;
+    line-height: 70px;
+	}
+	.pricing-table-style h5 {
+    font-size: 48px;
+    line-height: 58px;
+  }
+  .pricing-table-style ul li {
+    font-size: 12px;
+	}
+	.menu-bar {
+    display: none;
+	}
+	.problem h4 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .problem h2 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .portfolio-text p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+	.title {
+    font-size: 24px;
+  }
+  .content p {
+    font-size: 16px;
+    padding-top: 20px;
+	}
+	.code-snippets .heading h2 {
+    font-size: 50px;
+    line-height: 60px;
+    padding-bottom: 15px;
+    padding-top: 0;
+	}
+	.code-snippets-link a h5 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+	.conter span {
+    font-size: 16px;
+	}
+	.heading h2 {
+    width: 56%;
+	}
+	.hero-section .we-provide-img img {
+    width: 100%;
+	}
+	.features img {
+    padding-right: 20px;
+	}
+	.about-img {
+    margin-top: 105px;
+  }
+  .about-img img.about-img-two {
+    width: auto;
+	}
+	.about-img img.arrow {
+    position: absolute;
+    border-radius: 0;
+    top: -58%;
+    left: 27%;
+    width: auto;
+	}
+	.features ul li{
+		font-size: 14px;
+	}
+	.about-img img {
+    width: 30%;
+	}
+}
+@media(max-width: 993px){
+	.gap {
+    padding: 100px 0;
+	}
+	.no-top{
+	    padding-top: 0;
+	}
+	.no-bottom{
+	    padding-bottom: 0;
+	}
+  .code-snippets-text p {
+    font-size: 16px;
+  }
+  pre {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .hero-section {
+    padding-bottom: 0;
+  }
+  .code-snippets-text h2 {
+    font-size: 34px;
+    line-height: 50px;
+  }
+  .services {
+    padding-top: 0;
+  }
+	.faq{
+		padding-bottom: 80px;
+	}
+	.faq h1 {
+    font-size: 50px;
+    line-height: 60px;
+	}
+	.question {
+    width: 90%;
+  }
+  #border-pagination {
+    margin-top: 20px;
+  }
+	.pricing-table .heading h2 {
+    width: 100%;
+	}
+	.pricing-table .heading h2 {
+    font-size: 34px;
+    line-height: 44px;
+	}
+	.pricing-table-style ul li {
+    font-size: 14px;
+	}
+	.portfolio-text h3 {
+    font-size: 38px;
+    line-height: 46px;
+	}
+	.live-demo li {
+    font-size: 16px;
+  }
+  .problem h4 {
+    font-size: 20px;
+    line-height: 30px;
+	}
+	.problem h2 {
+    font-size: 36px;
+    line-height: 46px;
+    padding-top: 14px;
+	}
+	.problem ul li i {
+    width: 30px;
+    height: 30px;
+  }
+	.portfolio-text {
+    width: 95%;
+  }
+  .problem {
+    width: 90%;
+  }
+	.nav-pills .nav-link {
+    font-size: 18px;
+  }
+	.have-estion {
+    margin-top: 80px;
+    padding-top: 80px;
+  }
+	.faq .accordion {
+    width: 100%;
+  }
+  .title {
+    font-size: 20px;
+  }
+	.footer-bottom {
+    margin-top: 50px;
+  }
+  .have-estion.two p {
+    width: 80%;
+  }
+  .have-estion h2 {
+    font-size: 44px;
+	}
+	.links-footer h6 {
+    padding-top: 30px;
+	}
+	.testimonials-slider .owl-dots {
+    margin-top: 20px;
+	}
+	.blog-data {
+    margin-bottom: 30px;
+	}
+	.portfolio-section .heading h2 {
+    width: 100%;
+    font-size: 34px;
+	}
+	.testimonials-slider .owl-nav {
+    position: relative;
+    right: 0;
+	}
+	.we-provide-img img {
+    width: 100%;
+  }
+  .heading h2 {
+    line-height: 56px;
+    font-size: 44px;
+    width: 100%;
+  }
+}
+@media(max-width: 768px){
+	.we-provide h2 {
+    font-size: 50px;
+    line-height: 60px;
+	}
+	.mobile-nav {
+    width: 50%;
+  }
+  .code-snippets-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .services-box {
+    margin-top: 10px;
+  }
+	.heading p,.question,.services-text {
+    width: 100%;
+  }
+  .services-text h3 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .services-text p {
+    font-size: 16px;
+	}
+	.service-page .heading h2 {
+    font-size: 30px;
+	}
+	.question h3 {
+    font-size: 36px;
+    line-height: 46px;
+	}
+	.portfolio-text {
+    width: 100%;
+	}
+	.problem,.we-provide p,.have-estion.two p {
+    width: 100%;
+  }
+  .m-100 {
+    margin: 30px 0;
+	}
+  .services {
+    padding-top: 0;
+  }
+  .nav-pills .nav-link {
+    font-size: 16px;
+  }
+  .portfolio-data h5 {
+    padding-top: 20px;
+  }
+  .about-img img {
+    width: 52%;
+	}
+	.about-img img.arrow{
+		display: none;
+	}
+	.about-img {
+    margin-top: 0px;
+	}
+	.heading.two p{
+		width: 100%;
+	}
+	.portfolio-section .btu {
+    margin-bottom: 20px;
+	}
+	.heading h2 {
+    line-height: 50px;
+    font-size: 40px;
+  }
+  .heading {
+    padding-bottom: 20px;
+	}
+}
+@media(max-width: 576px){
+	.we-provide h2 {
+    font-size: 40px;
+    line-height: 50px;
+	}
+  .code-snippets-text {
+    padding: 30px;
+  }
+  pre {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .live-demo {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+  .code-snippets-text p {
+    font-size: 14px;
+  }
+	.mobile-nav {
+    width: 100%;
+  }
+  .res-log img {
+    width: 75%;
+	}
+	.faq{
+		padding-bottom: 60px;
+	}
+	.faq h1 {
+    font-size: 40px;
+    line-height: 50px;
+	}
+	.problem ul li {
+    font-size: 14px;
+	}
+	.live-demo li {
+    font-size: 12px;
+    line-height: 20px;
+	}
+	.question h3 {
+    font-size: 30px;
+    line-height: 40px;
+	}
+	.portfolio-text p {
+    font-size: 14px;
+    line-height: 26px;
+	}
+	.live-demo span {
+    font-size: 12px;
+	}
+	.live-demo h6 {
+    font-size: 16px;
+  }
+  .click-here a {
+    font-size: 14px;
+  }
+	.have-estion {
+    margin-top: 60px;
+    padding-top: 60px;
+  }
+  .nav-pills .nav-link {
+    font-size: 14px;
+    padding: 10px;
+	}
+  .faq h1 {
+    font-size: 50px;
+    line-height: 60px;
+	}
+	.title {
+    padding: 12px 20px;
+    padding-right: 40px;
+    color: white;
+    font-size: 16px;
+  }
+	.drop-line p {
+    width: 100%;
+  }
+	.we-provide h1 {
+    font-size: 44px;
+	}
+	.heading p {
+    width: 100%;
+  }
+  .code-snippets .heading h2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+	.code-snippets-link a h5 {
+    font-size: 18px;
+    line-height: 28px;
+	}
+	.have-estion h2 {
+    font-size: 36px;
+	}
+	.conter {
+    font-size: 56px;
+	}
+	.gap {
+    padding: 60px 0;
+	}
+	.no-top{
+	    padding-top: 0;
+	}
+	.no-bottom{
+	    padding-bottom: 0;
+	}
+  .services {
+    padding-top: 0;
+  }
+  .logo-footer img {
+    width: 56%;
+  }
+  .pricing-table,.service-page,.code-snippets,.faq {
+    padding-top: 100px;
+  }
+}
+@media(max-width: 500px){
+	.heading h2,.heading.two h2 {
+    line-height: 42px;
+    font-size: 32px;
+	}
+	.faq h1 {
+    font-size: 30px;
+    line-height: 40px;
+	}
+	.about-img img.about-img-two {
+    width: 33%;
+	}
+	.features {
+    flex-wrap: wrap;
+	}
+	.features img {
+    padding-right: 0px;
+    margin-bottom: 20px;
+	}
+	.about-img img {
+    width: 44%;
+	}
+}
+@media(max-width: 450px){
+	.footer-bottom {
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+	}
+  .code-snippets-text h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .res-log img {
+    width: 62%;
+  }
+	.problem h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .problem h4 {
+    font-size: 18px;
+    line-height: 28px;
+	}
+	.portfolio-text h3 {
+    font-size: 30px;
+    line-height: 40px;
+	}
+	.services-box .counter,.services-box span {
+    font-size: 28px;
+	}
+	.problem ul li {
+    font-size: 12px;
+	}
+	#border-pagination li a {
+    margin-right: 5px;
+  }
+	.we-provide h1 {
+    font-size: 40px;
+    line-height: 50px;
+	}
+	.have-estion h2 {
+    font-size: 30px;
+    line-height: 40px;
+	}
+	.code-snippets-link a h5 {
+    font-size: 16px;
+    line-height: 26px;
+	}
+	ul.social-media-icon {
+    padding-top: 20px;
+	}
+	.we-provide h2 {
+    font-size: 36px;
+    line-height: 46px;
+	}
+}
+@media(max-width: 410px){
+}
+@media(max-width: 375px){
+	.we-provide h2 {
+    font-size: 30px;
+    line-height: 40px;
+	}
+	
+}
